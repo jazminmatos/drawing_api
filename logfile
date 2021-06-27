@@ -1,0 +1,19 @@
+2021-06-27 18:53:44.565 EDT [15728] LOG:  starting PostgreSQL 13.3 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.29), 64-bit
+2021-06-27 18:53:44.568 EDT [15728] LOG:  listening on IPv6 address "::1", port 5432
+2021-06-27 18:53:44.568 EDT [15728] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2021-06-27 18:53:44.569 EDT [15728] LOG:  listening on Unix socket "/tmp/.s.PGSQL.5432"
+2021-06-27 18:53:44.574 EDT [15729] LOG:  database system was shut down at 2021-06-27 18:52:50 EDT
+2021-06-27 18:53:44.580 EDT [15728] LOG:  database system is ready to accept connections
+2021-06-27 18:53:59.777 EDT [15766] FATAL:  database "drawing_api_development" does not exist
+2021-06-27 18:54:00.242 EDT [15767] FATAL:  database "drawing_api_development" does not exist
+2021-06-27 18:55:08.065 EDT [15786] LOG:  starting PostgreSQL 13.3 on x86_64-apple-darwin19.6.0, compiled by Apple clang version 12.0.0 (clang-1200.0.32.29), 64-bit
+2021-06-27 18:55:08.068 EDT [15786] LOG:  could not bind IPv6 address "::1": Address already in use
+2021-06-27 18:55:08.068 EDT [15786] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2021-06-27 18:55:08.068 EDT [15786] LOG:  could not bind IPv4 address "127.0.0.1": Address already in use
+2021-06-27 18:55:08.068 EDT [15786] HINT:  Is another postmaster already running on port 5432? If not, wait a few seconds and retry.
+2021-06-27 18:55:08.068 EDT [15786] WARNING:  could not create listen socket for "localhost"
+2021-06-27 18:55:08.068 EDT [15786] FATAL:  could not create any TCP/IP sockets
+2021-06-27 18:55:08.069 EDT [15786] LOG:  database system is shut down
+2021-06-27 18:55:55.767 EDT [15800] FATAL:  database "drawing_api_development" does not exist
+2021-06-27 18:59:56.264 EDT [15858] FATAL:  database "drawing_api_development" does not exist
+2021-06-27 18:59:56.636 EDT [15859] FATAL:  database "drawing_api_development" does not exist
