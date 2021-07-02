@@ -8,9 +8,9 @@
 
 
 User.create([
-    {username: "Samantha", id: 1},
-    {username: "Danny", id: 2},
-    {username: "Benjamin", id: 3}
+    {id: 1, username: "Samantha"},
+    {id: 2, username: "Danny"},
+    {id: 3, username: "Benjamin"}
 
 ])
 
